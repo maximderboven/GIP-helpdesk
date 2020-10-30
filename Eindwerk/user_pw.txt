@@ -1,0 +1,13 @@
+passwoorden
+
+- Super user - 
+Username: root
+Passwoord: root
+
+- Admin - 
+Username: admin
+Passwoord: admin
+
+- Gebruiker - 
+Username: gebruiker1, gebruiker2, gebruiker3, gebruiker4, gebruiker5, etc.
+Passwoord: gebruiker

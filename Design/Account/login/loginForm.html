@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="nl"> <!-- x -->
+<head>
+    <title>Login - KaSO-Desk</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" type="text/css" href="registerlogin.css"> <!-- CS / zelfde voor register -->
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="jquery.min.js"></script>
+</head>
+
+<body class="style-B"> <!-- Heel de body -->
+    <div class="container bs-docs-container style-BSD" >
+        <div class="inner-bg style-IBG"> <!-- Voor achtergrond -->
+            <div class="container col-sm-12 style-C"> <!-- breedte zetten voor login -->
+                <div class="row main text-center">
+                    <div class="main-login main-center style-ML"> <!-- Login -->
+                        <div class="panel-title text-center style-PT"> <!-- Logo / header -->
+                            <a href=""><img src="logo2.png" width="200vh" class="img-fluid"></a>
+                        </div>
+                        <form class="form-horizontal" method="post" action=""> <!-- vul in form -->
+                            <div class="form-group style-FG"> <!-- texbox field  idee: [ icon ] placeholder   ]-->
+                                <div class="cols-sm-10">
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span> <!-- [ icon ] -->
+               <!-- [ input field ] --> <input class="form-control" id='email' title='Email / Gebruikersnaam' alt='Email / Username' name="email_gebruikersnaam" type="text" placeholder='Email / Username' onfocus="this.style.background='#FFFFFF'" onblur="this.style.background='#FFFFFF'" id="email" value="" maxlength="65" oninvalid="this.setCustomValidity('Verplicht')" oninput="setCustomValidity('')" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="cols-sm-10">
+                                    <div class="input-group">
+                                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                                        <input class="form-control" id='password' title='Password' alt='Password' name="password" type="password" placeholder='Password' onfocus="this.style.background='#FFFFFF'" onblur="this.style.background='#FFFFFF'" value="" maxlength="65" oninvalid="this.setCustomValidity('Verplicht')" oninput="setCustomValidity('')" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group"> <!-- verzenden knop -->
+                                <button style="width:100%; border:0;" type="submit" class="btn btn-danger btn-md">Login</button>
+                            </div>
+                        </form>
+                        <div class="login-register"> <!-- Nog geen account knop -->
+                            <p></p>
+                            <a class="link" href='registerForm.aspx'>Nog geen account ?</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

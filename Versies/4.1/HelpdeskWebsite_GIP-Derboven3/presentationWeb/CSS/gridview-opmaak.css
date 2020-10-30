@@ -1,0 +1,32 @@
+﻿.table-curved {
+    border-collapse: separate;
+    border: none;
+}
+
+.table-curved {
+    border: none;
+    background-color: #fff;
+    border-radius: 5px;
+    border-left: 0px;
+}
+    .table-curved th {
+        border-top: none;
+        border: none;
+        background-color: #555;
+        color:white;
+        height: 37px;
+    }
+    .table-curved tr {
+        border-top: none;
+        border-left: none;
+        border-bottom:none;
+    }
+    .AltRow {
+    background-color: #F5F5F5;
+    }
+
+    .table-curved td {
+        border: none;
+        height: 37px;
+        border-bottom: none;
+    }

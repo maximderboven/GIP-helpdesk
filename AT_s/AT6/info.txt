@@ -1,0 +1,2 @@
+In de database modellen (mandotary gaat niet, hij verandert deze automatisch naar 1)
+			(normale int, verandert hij ook naar int(10))
