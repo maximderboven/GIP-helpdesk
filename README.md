@@ -3,7 +3,7 @@ GIP helpdesk w .NET web MySQL (tickets, admins, accounts)
 
 
 === Info voor "KaSO-Desk GIP" ===
-Contributor: Maxim Derboven
+Contributor: Maxim D.
 Requires at least database: 3.0
 Tested up to: 5.0
 Stable tag: 5.0
