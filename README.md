@@ -1,48 +1,61 @@
-# GIP-helpdesk
-GIP helpdesk w .NET web MySQL (tickets, admins, accounts)
+# TICKET HELPDESK
+Helpdesk - Maxim D. 2019-2020
+
+Ticket Helpdesk w ASP.NET C# web MySQL (tickets, admins, accounts)  
+
+###Properties
+
+* Create & Edit tickets
+* Notifications
+* Manage users and tickets
+* Admin/User/Super User - Perms and roles
+* "Chat" / "Forum"
+* Register and login
+* Statistics for Admins
+* Profile and password management
+
+## Installation
+
+.NET framework 4.5.2
+using MySQL.Data.dll
+
+open sln project w VS > set default startup project (presentationweb)
+run sql > change connection details in Persistence.cs line 30
+
+## Contributing
+I no longer edit this project. I made this for school back in the days   
+
+##Footage
+
+https://youtu.be/sUxzQbmF3sg
+
+![Splashscreen](https://github.com/maximderboven/blockgame/blob/master/documentation/splash.PNG?raw=true)
+![Settings screen](https://github.com/maximderboven/blockgame/blob/master/documentation/settings.PNG?raw=true)
+![Login screen](https://github.com/maximderboven/blockgame/blob/master/documentation/login.PNG?raw=true)
+![Highscores screen](https://github.com/maximderboven/blockgame/blob/master/documentation/highscores.PNG?raw=true)
+![Gameover screen](https://github.com/maximderboven/blockgame/blob/master/documentation/gameover.PNG?raw=true)
+![Game screen](https://github.com/maximderboven/blockgame/blob/master/documentation/game.PNG?raw=true)
 
 
-=== Info voor "KaSO-Desk GIP" ===
-Contributor: Maxim D.
-Requires at least database: 3.0
-Tested up to: 5.0
-Stable tag: 5.0
+## License
+MIT License
 
+Copyright (c) 2021 Maxim
 
-== Beschrijving ==
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Hier bevinden zich alle locaties van de files en de inhoud. Zo is het gemakkelijker alles terug te vinden.
-Maxim Derboven - 2020
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-
-= Eigenschappen van het project =
-
-- Tickets aanmaken
-- Meldingen
-- Beheer van tickets
-- Gebruikerbeheer
-- Admin/Gebruiker/Super User
-- "Chat" / "Forum"
-- Registreer opties
-- Profiel en passwoord beheer
-
-
-= In deze video leggen we het uit =
-
-[youtube xxxx.be]
-
-
-== Installatie==
-
-1. Neem de gewenste versie uit de versies folder (eindversie V5 in Eindwerk).
-2. Zoek de daarbij gewenste databank (De versie van de databank is het eerste cijfer van de versie van het programma).
-3. Laad de databank in Workbench & de data.sql voor de data.
-4. De .sln file in het project kan geopend worden met Visual Studio.
-
-
-== Inhoud ==
-
-AT's : Hier bevinden zich de standaard gevraagde versies. Indien een versie niet is aangegeven in die folder zit er een indicatie waar deze zich wel bevindt.
-Design : Hier zitten de HTML, CSS & ontwerp files van het design.
-Documentatie : Hierin zitten bestanden met specifieke informatie over het project (bestanden, plugins)
-Versies :  Versie geschiedenis, vergezeld met een databank
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
