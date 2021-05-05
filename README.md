@@ -3,7 +3,7 @@ Helpdesk - Maxim D. 2019-2020
 
 Ticket Helpdesk w ASP.NET C# web MySQL (tickets, admins, accounts)  
 
-###Properties
+### Properties
 
 * Create & Edit tickets
 * Notifications
