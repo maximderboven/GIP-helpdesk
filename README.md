@@ -25,7 +25,7 @@ run sql > change connection details in Persistence.cs line 30
 ## Contributing
 I no longer edit this project. I made this for school back in the days   
 
-##Footage
+## Footage
 
 https://youtu.be/sUxzQbmF3sg
 
