@@ -29,12 +29,18 @@ I no longer edit this project. I made this for school back in the days
 
 https://youtu.be/sUxzQbmF3sg
 
-![Splashscreen](https://github.com/maximderboven/blockgame/blob/master/documentation/splash.PNG?raw=true)
-![Settings screen](https://github.com/maximderboven/blockgame/blob/master/documentation/settings.PNG?raw=true)
-![Login screen](https://github.com/maximderboven/blockgame/blob/master/documentation/login.PNG?raw=true)
-![Highscores screen](https://github.com/maximderboven/blockgame/blob/master/documentation/highscores.PNG?raw=true)
-![Gameover screen](https://github.com/maximderboven/blockgame/blob/master/documentation/gameover.PNG?raw=true)
-![Game screen](https://github.com/maximderboven/blockgame/blob/master/documentation/game.PNG?raw=true)
+![Home Admin](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/adminhome.JPG?raw=true)
+![Password change](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/changepassword.JPG?raw=true)
+![Create ticket](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/createticket.JPG?raw=true)
+![Home User](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/home_user.JPG?raw=true)
+![Homepage onepager](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/homepage.JPG?raw=true)
+![login screen](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/login.JPG?raw=true)
+![Profile screen](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/profile.JPG?raw=true)
+![register screen](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/register.JPG?raw=true)
+![ticket answer](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/ticketanswer.JPG?raw=true)
+![ticket manage](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/ticketmanage.JPG?raw=true)
+![create user](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/usercreate.JPG?raw=true)
+![Manage user](https://github.com/maximderboven/GIP-helpdesk/blob/main/Eindwerk/usermanage.JPG?raw=true)
 
 
 ## License
