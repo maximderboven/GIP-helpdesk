@@ -16,10 +16,10 @@ Ticket Helpdesk w ASP.NET C# web MySQL (tickets, admins, accounts)
 
 ## Installation
 
-.NET framework 4.5.2
-using MySQL.Data.dll
+.NET framework 4.5.2  
+using MySQL.Data.dll  
 
-open sln project w VS > set default startup project (presentationweb)
+open sln project w VS > set default startup project (presentationweb)  
 run sql > change connection details in Persistence.cs line 30
 
 ## Contributing
