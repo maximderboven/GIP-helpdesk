@@ -1,1 +1,0 @@
-In sommige html files moet de bootstrap bibliotheek worden geimporteerd. Dan pas ziet het er goed uit.
