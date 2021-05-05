@@ -1,1 +1,0 @@
-CRUD index.aspx werkt met databank versie 2 (zit in deze folder)

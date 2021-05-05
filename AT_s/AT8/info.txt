@@ -1,1 +1,0 @@
-De responsivness van dit project id grotendeels gebeurd door bootstrap. Voor sommige dingen (betere verhoudingen) heb ik wel media queries gebruikt. Die zijn dan ook te vinden in het eindwerk in de css files (GIPDerboven3.css, algemeen.css)

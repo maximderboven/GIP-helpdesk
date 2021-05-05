@@ -1,2 +1,0 @@
-AT10: zie eindwerk
-(asp pagina gedesigned (zie:Full Design). Gridview opmaak in gridview-opmaak.css, globaal zelfde file)
